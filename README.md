@@ -8,7 +8,6 @@ Currently seeking Full-Stack Engineering internship opportunities to apply scala
 
 ---
 
-
 ## 🛠 Technical Stack
 
 ### Backend & Systems
